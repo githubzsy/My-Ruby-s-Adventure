@@ -1,8 +1,6 @@
-/.vs
-/Temp
 /Library
 /Logs
+/Temp
+/.vs
 /obj
-/Packages
-/ProjectSettings
 /Build
